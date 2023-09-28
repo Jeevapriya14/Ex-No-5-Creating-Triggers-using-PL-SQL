@@ -85,7 +85,8 @@ SELECT * FROM sal_logg;
 ```
 
 ### Output:
-![Uploading Screenshot 2023-09-27 094850.png…]()
+![Creating triggers](https://github.com/Jeevapriya14/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121003043/6caf3238-451b-44b6-bf6c-a901cd1311b3)
+
 
 ### Result:
 Thus , the output has been successfully verified.
